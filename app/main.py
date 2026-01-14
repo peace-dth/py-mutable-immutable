@@ -21,8 +21,8 @@ c = "Hi!"
 d = [1, 2]
 
 sorted_variables = {
-    "mutable": [b, d, collection_of_coins, marks, my_favourite_films
+    "mutable": [collection_of_coins, marks, my_favourite_films
 ],
-    "immutable": [a, c, profile_info, name, one_is_a_prime_number, pi, lucky_number]
+    "immutable": [profile_info, name, one_is_a_prime_number, pi, lucky_number]
 }
 
