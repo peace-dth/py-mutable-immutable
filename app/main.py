@@ -15,10 +15,6 @@ marks = {
     "Sergio": 3,
 }
 collection_of_coins = {1, 2, 25}
-a = 123
-b = []
-c = "Hi!"
-d = [1, 2]
 
 sorted_variables = {
     "mutable": [collection_of_coins, marks, my_favourite_films
